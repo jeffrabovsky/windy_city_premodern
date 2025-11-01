@@ -1,0 +1,15 @@
+date,player 1,player 2,player 1 wins,player 2 wins,player 1 deck,player 2 deck,round
+9/27/25,Stephen,Jeff,1,1,UB Dreadnought,Dreadnought,1
+9/27/25,Giovanni,Lee,1,2,Oath Spec,Aluren,1
+9/27/25,Danny,Bye,2,0,BUG Control,,1
+9/27/25,Gleicher,JP,2,1,RG Goblins,Red Deck,1
+9/27/25,Bob,Nick,2,0,UG Enchantress,GB Horror Stompy,1
+9/27/25,Stephen,Giovanni,0,2,UB Dreadnought,Oath Spec,2
+9/27/25,Lee,Danny,1,2,Aluren,BUG Control,2
+9/27/25,Gleicher,Bob,2,0,RG Goblins,UG Enchantress,2
+9/27/25,JP,Bye,2,0,Red Deck,,2
+9/27/25,Jeff,Nick,0,2,Dreadnought,GB Horror Stompy,2
+9/27/25,Stephen,Lee,2,0,UB Dreadnought,Aluren,3
+9/27/25,Giovanni,Nick,2,0,Oath Spec,GB Horror Stompy,3
+9/27/25,Danny,Gleicher,0,2,BUG Control,RG Goblins,3
+9/27/25,Bob,Jeff,0,2,UG Enchantress,Dreadnought,3
