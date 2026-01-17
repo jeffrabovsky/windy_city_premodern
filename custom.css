@@ -41,3 +41,8 @@
   --accent-bg: #FFF;
   --bg: #41B6E6;
 }
+
+/* https://github.com/kevquirk/simple.css/issues/234 */
+.fullwidth {
+  grid-column: 1 / -1;
+}

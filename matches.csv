@@ -1,16 +1,16 @@
-date,player 1,player 2,player 1 wins,player 2 wins,player 1 deck,player 2 deck,round
+date,player_1,player_2,player_1_wins,player_2_wins,player_1_deck,player_2_deck,round_number
 9/27/25,Stephen,Jeff,1,1,UB Dreadnought,Dreadnought,1
 9/27/25,Giovanni,Lee,1,2,Oath Spec,Aluren,1
 9/27/25,Danny,Bye,2,0,BUG Control,,1
 9/27/25,Gleicher,JP,2,1,RG Goblins,Red Deck,1
-9/27/25,Bob,Nick,2,0,UG Enchantress,GB Horror Stompy,1
+9/27/25,Bob,Nick,2,0,UG Enchantress,Horror Stompy,1
 9/27/25,Stephen,Giovanni,0,2,UB Dreadnought,Oath Spec,2
 9/27/25,Lee,Danny,1,2,Aluren,BUG Control,2
 9/27/25,Gleicher,Bob,2,0,RG Goblins,UG Enchantress,2
 9/27/25,JP,Bye,2,0,Red Deck,,2
-9/27/25,Jeff,Nick,0,2,Dreadnought,GB Horror Stompy,2
+9/27/25,Jeff,Nick,0,2,Dreadnought,Horror Stompy,2
 9/27/25,Stephen,Lee,2,0,UB Dreadnought,Aluren,3
-9/27/25,Giovanni,Nick,2,0,Oath Spec,GB Horror Stompy,3
+9/27/25,Giovanni,Nick,2,0,Oath Spec,Horror Stompy,3
 9/27/25,Danny,Gleicher,0,2,BUG Control,RG Goblins,3
 9/27/25,Bob,Jeff,0,2,UG Enchantress,Dreadnought,3
 10/25/25,Stephen,David,2,1,UW Landstill,Prison Blue,1
@@ -25,3 +25,13 @@ date,player 1,player 2,player 1 wins,player 2 wins,player 1 deck,player 2 deck,r
 10/25/25,Nick,Lee,2,0,Pit Rack,Aluren,3
 10/25/25,Danny,Gleicher,2,1,Terrageddon Survival,BG Survival,3
 10/25/25,David,JP,2,0,Prison Blue,Prison Red,3
+11/29/25,Giovanni,Jeff,0,2,4C Wayfarer,Mono Blue Tide,
+11/29/25,Spencer,JP,0,2,Horror Stompy,Devourer Combo,
+11/29/25,Nick,Spencer,2,1,Dragon Wildfire,Horror Stompy,
+11/29/25,Giovanni,JP,0,2,4C Wayfarer,Devourer Combo,
+11/29/25,Jeff,Spencer,2,0,Mono Blue Tide,Horror Stompy,
+11/29/25,Nick,Giovanni,2,0,Dragon Wildfire,4C Wayfarer,
+11/29/25,Giovanni,Spencer,2,0,4C Wayfarer,Horror Stompy,
+11/29/25,JP,Jeff,2,1,Devourer Combo,Mono Blue Tide,
+11/29/25,JP,Nick,1,2,Devourer Combo,Dragon Wildfire,
+11/29/25,Jeff,Nick,2,1,Mono Blue Tide,Dragon Wildfire,
